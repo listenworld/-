@@ -1,0 +1,16 @@
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\lv_font.c
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\lv_font.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../lv_conf_internal.h
+g474vet6_begin\lv_font.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../lv_conf_kconfig.h
+g474vet6_begin\lv_font.o: ../LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+g474vet6_begin\lv_font.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+g474vet6_begin\lv_font.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\lv_symbol_def.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../misc/lv_area.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../misc/lv_utils.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../misc/lv_log.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../misc/lv_types.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../misc/lv_assert.h
+g474vet6_begin\lv_font.o: ..\LVGL\GUI\lvgl\src\font\../misc/lv_mem.h
+g474vet6_begin\lv_font.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

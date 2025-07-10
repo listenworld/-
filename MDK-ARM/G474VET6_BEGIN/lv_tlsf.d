@@ -1,0 +1,13 @@
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\lv_tlsf.c
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+g474vet6_begin\lv_tlsf.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+g474vet6_begin\lv_tlsf.o: ../LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+g474vet6_begin\lv_tlsf.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\lv_tlsf.h
+g474vet6_begin\lv_tlsf.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\lv_mem.h
+g474vet6_begin\lv_tlsf.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\lv_types.h
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\lv_log.h
+g474vet6_begin\lv_tlsf.o: ..\LVGL\GUI\lvgl\src\misc\lv_assert.h

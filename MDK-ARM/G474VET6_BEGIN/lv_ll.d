@@ -1,0 +1,11 @@
+g474vet6_begin\lv_ll.o: ..\LVGL\GUI\lvgl\src\misc\lv_ll.c
+g474vet6_begin\lv_ll.o: ..\LVGL\GUI\lvgl\src\misc\lv_ll.h
+g474vet6_begin\lv_ll.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+g474vet6_begin\lv_ll.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+g474vet6_begin\lv_ll.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+g474vet6_begin\lv_ll.o: ..\LVGL\GUI\lvgl\src\misc\lv_mem.h
+g474vet6_begin\lv_ll.o: ..\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+g474vet6_begin\lv_ll.o: ..\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+g474vet6_begin\lv_ll.o: ../LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+g474vet6_begin\lv_ll.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+g474vet6_begin\lv_ll.o: ..\LVGL\GUI\lvgl\src\misc\lv_types.h

@@ -1,0 +1,17 @@
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\lv_bidi.c
+g474vet6_begin\lv_bidi.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\lv_bidi.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\../lv_conf_internal.h
+g474vet6_begin\lv_bidi.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\../lv_conf_kconfig.h
+g474vet6_begin\lv_bidi.o: ../LVGL/GUI/lvgl/examples/porting/../../lv_conf.h
+g474vet6_begin\lv_bidi.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\lv_txt.h
+g474vet6_begin\lv_bidi.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\lv_area.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\../font/lv_font.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\../font/lv_symbol_def.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\lv_printf.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\lv_types.h
+g474vet6_begin\lv_bidi.o: ..\LVGL\GUI\lvgl\src\misc\../misc/lv_mem.h
+g474vet6_begin\lv_bidi.o: D:\Keil\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

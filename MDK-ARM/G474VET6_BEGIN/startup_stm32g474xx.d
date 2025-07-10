@@ -1,0 +1,1 @@
+g474vet6_begin\startup_stm32g474xx.o: startup_stm32g474xx.s
